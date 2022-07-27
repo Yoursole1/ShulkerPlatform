@@ -1,0 +1,12 @@
+name: ShulkerPlatform
+version: ${project.version}
+main: me.yoursole.shulkerplatform.ShulkerPlatform
+api-version: 1.18
+
+commands:
+  ForceRegion:
+    usage: /<command>
+    description: modify, create, or use regions
+  Platform:
+    usage: /<command>
+    description: modify, create, or use a moving platform
